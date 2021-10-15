@@ -3,6 +3,34 @@ body {
 }
 
 img {
-    width:10%;
-    height: 15%;
+    margin-top: 1.6cm;
+    width:15%;
+    height: 10%;
+    border-radius: 2%;
 }
+
+div{
+    display: block;
+}
+
+div.relative {
+    position: relative;
+    left: 30px;
+    border: 3px solid #73AD21;
+  }
+  
+a {
+    font-family: Arial;
+    font-size: 16px;
+    color: #FF7A59;
+    text-justify: auto;
+}
+
+
+h2{
+    font-family: Arial;
+    color: #0c0b0ecb;
+}   
+
+
+
